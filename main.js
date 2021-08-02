@@ -58,6 +58,12 @@ const app = {
             singer: 'Gino',
             path: './audio/audio6.mp3',
             image: './imgs/img6.jpg'
+        },
+        {
+            name: 'Sakura',
+            singer: 'RSP',
+            path: './audio/audio7.mp3',
+            image: './imgs/img7.jpg'
         }
     ],
 
